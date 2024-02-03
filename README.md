@@ -33,7 +33,6 @@ Pedro Perez Marin
   <img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/java.svg" alt="Java Icon" width="60" height="60" style="margin-right: 8px;">
   <img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/python.svg" alt="Python Icon" width="60" height="60" style="margin-right: 8px;">
   <img src="https://github.com/pedroejea18/pedroejea18/assets/88318900/3171feb2-de9f-4c79-a205-a6f72a754582" alt="MySQL Icon" width="60" height="60" style="margin-right: 8px;">
-  <img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/git.svg" alt="Git Icon" width="60" height="60">
 </div>
 
 
