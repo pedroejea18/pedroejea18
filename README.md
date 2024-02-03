@@ -20,6 +20,7 @@ Pedro Perez Marin
 <p align="center">Basic Level:</p>
 <div align="center">
   <img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/c.svg" alt="C Icon" width="60" height="60" style="margin-right: 8px;">
+  <img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/cpp.svg" alt="C++ Icon" width="60" height="60" style="margin-right: 8px;">
   <img src="https://github.com/pedroejea18/pedroejea18/assets/88318900/d23fc64a-7fc3-4d46-9c15-1c4d70e64645" alt="HTML5 Icon" width="60" height="60" style="margin-right: 8px;">
   <img src="https://github.com/pedroejea18/pedroejea18/assets/88318900/f7caf4bd-9504-4569-b584-f2c3ffc0286b" alt="CSS3 Icon" width="60" height="60" style="margin-right: 8px;">
   <img src="https://github.com/pedroejea18/pedroejea18/assets/88318900/062bd61e-c70f-4875-b564-837a70fe3f2a" alt="Linux Icon" width="60" height="60" style="margin-right: 8px;">
