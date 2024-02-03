@@ -11,6 +11,9 @@ Pedro Perez Marin
 
 <p align="center">Connect with me:</p>
 
-![linkedin](https://github.com/pedroejea18/pedroejea18/assets/88318900/9727eb0a-4747-4e7f-9bbe-1e460839d6fc)
+
+
+
+
 
 
