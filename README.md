@@ -1,50 +1,49 @@
-Pedro Perez Marin
-----------------------------------------
+# Hi, I'm Pedro 👋
 
-🎓 I'm currently studying at [SantiagoHernandez](https://www.iessantiagohernandez.com/) Zaragoza
+**Software Developer · Cloud & DevOps**
 
-👨‍💻 Explore all of my projects on [GitHub](https://github.com/pedroejea18?tab=repositories)
+Based in Zaragoza, Spain. I develop scientific and web applications at **CSIC**, and I'm focusing my career on cloud infrastructure, automation and DevOps.
 
-💬 I am very friendly, I like gaming and programming, my dream is to travel and know new cultures
+I enjoy understanding how applications work from end to end: writing the code, packaging it in containers, and deploying the infrastructure.
 
-📧 Reach out to me at pedroejea18@gmail.com
+## About me
 
-<p align="center">Connect with me:</p>
+- 💻 Developing scientific and web applications with Python, PyQt, JavaScript and PHP.
+- 🌍 Previous experience at **CrossControl AB in Finland**, working with embedded systems, C++ testing, Python automation and Jenkins.
+- ☁️ Currently studying a **specialization in Cloud Resources and Services** at Campus Digital FP Aragón.
+- 🛠️ Exploring AWS, Terraform, Docker, Linux and CI/CD through personal projects.
+- 🎮 Outside of tech, I enjoy gaming, travelling and discovering new cultures.
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/pedro-perez-marin-35509a243/" target="_blank">
-    <img src="https://github.com/pedroejea18/pedroejea18/assets/88318900/247293fc-c7ed-4e34-8f88-a0ece0be5c44" alt="linkedin" width="60" height="60">
-  </a>
-</p>
+## Certifications
 
-<p align="center">Basic Level:</p>
-<div align="center">
-  <img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/c.svg" alt="C Icon" width="60" height="60" style="margin-right: 8px;">
-  <img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/cpp.svg" alt="C++ Icon" width="60" height="60" style="margin-right: 8px;">
-  <img src="https://github.com/pedroejea18/pedroejea18/assets/88318900/d23fc64a-7fc3-4d46-9c15-1c4d70e64645" alt="HTML5 Icon" width="60" height="60" style="margin-right: 8px;">
-  <img src="https://github.com/pedroejea18/pedroejea18/assets/88318900/f7caf4bd-9504-4569-b584-f2c3ffc0286b" alt="CSS3 Icon" width="60" height="60" style="margin-right: 8px;">
-  <img src="https://github.com/pedroejea18/pedroejea18/assets/88318900/062bd61e-c70f-4875-b564-837a70fe3f2a" alt="Linux Icon" width="60" height="60" style="margin-right: 8px;">
-  
-</div>
+- **AWS Certified Solutions Architect — Associate** · SAA-C03
+- **HashiCorp Certified: Terraform Associate** · 004
+- **Cambridge English: Advanced** · C1
 
-<p align="center">Intermediate level:</p>
+## Technologies
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/java.svg" alt="Java Icon" width="60" height="60" style="margin-right: 8px;">
-  <img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/python.svg" alt="Python Icon" width="60" height="60" style="margin-right: 8px;">
-  <img src="https://github.com/pedroejea18/pedroejea18/assets/88318900/3171feb2-de9f-4c79-a205-a6f72a754582" alt="MySQL Icon" width="60" height="60" style="margin-right: 8px;">
-</div>
+**Cloud & DevOps**  
+AWS · Terraform · Docker · Linux · Git · GitHub · Jenkins · CI/CD
 
+**Development**  
+Python · Java · C++ · JavaScript · SQL · FastAPI · React · PyQt
 
+## Featured project
 
+### [Image Metadata Platform](https://github.com/pedroejea18/image-metadata-platform)
 
+An image processing application that runs locally with Docker Compose or on AWS with infrastructure provisioned through Terraform.
 
+- **API:** FastAPI on ECS Fargate behind an Application Load Balancer.
+- **Frontend:** private S3 bucket served through CloudFront.
+- **Processing:** SQS triggers a Python Lambda worker packaged as a Docker image in ECR.
+- **Storage:** S3 for images and thumbnails, RDS PostgreSQL for metadata.
+- **Infrastructure:** Terraform, IAM, Secrets Manager and CloudWatch.
 
+The project explores how a local application evolves into a cloud deployment, including asynchronous processing and infrastructure as code.
 
+## Connect with me
 
-
-
-
-
-
-
+- 💼 [LinkedIn](https://www.linkedin.com/in/pedro-perez-marin-35509a243/)
+- 📧 [pedroejea18@gmail.com](mailto:pedroejea18@gmail.com)
+- 👨‍💻 [Explore my repositories](https://github.com/pedroejea18?tab=repositories)
